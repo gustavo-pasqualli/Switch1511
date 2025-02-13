@@ -23,7 +23,13 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="VSCode" height="30"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" alt="Jira" height="30"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" height="30"/>
-
-  </div>
-  <div align="center"> 
-  </div>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)" alt="Git" height="30"/>
+  <img src="https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff" alt="Html" height="30"/>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="Html" height="30"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="Css" height="30"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" alt="Npm" height="30"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff" alt="Confluence" height="30"/>
+  
+</div>
+<div align="center"> 
+</div>
