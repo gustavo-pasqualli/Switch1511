@@ -7,8 +7,9 @@
 </p>
 
 <h3>💻 Tech Stack:</h3>
-     <br/>
-  <div align="center">
+<br/>
+
+<div align="start">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" alt="Spring" />
   <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff" alt="Cypress" />
