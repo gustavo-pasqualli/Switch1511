@@ -11,9 +11,9 @@
 
 <div align="start">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Angular" height="30"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" alt="Spring" />
-  <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff" alt="Cypress" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" alt="Spring" height="30"/>
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff" alt="Cypress" height="30"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" height="30"/>
   <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff" alt="Sass" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="Typescript" />
